@@ -4,7 +4,6 @@ A precision financial tracking and payout automation program that manages a rota
 
 Members contribute a fixed sum each week into a communal pot. Each week, the accumulated pot is paid out to one member in the exact sequence in which they joined the group, provided that every member has paid their dues in full.
 
----
 
 ## Prerequisites
 
