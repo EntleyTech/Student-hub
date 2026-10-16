@@ -11,7 +11,7 @@
     "clean": "rm -rf dist server.js",
     "lint": "tsc --noEmit",
     "cli": "tsx src/cli.ts",
-    "test": "tsx src/cli.ts test",
+    "test": "tsx src/susu/susu.test.ts",
     "example": "tsx src/cli.ts example"
   },
   "dependencies": {
