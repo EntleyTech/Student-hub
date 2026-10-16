@@ -1,0 +1,6 @@
+{
+  "name": "Susu Rotating Savings Manager",
+  "description": "A precise rotating savings group (susu) management program with exact integer money handling, member payout rotations, and weekly closure validation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
